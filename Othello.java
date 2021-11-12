@@ -35,7 +35,8 @@ public class Othello {
 
     /**
      * Constructor of an Othello Object.
-     *
+     * Initialize redPlayer to 'R' and blue to 'B' and empty to '-'
+     * Set starting player, initialize the board, and update the scores
      * @param size           the size
      * @param startingPlayer the starting player
      */
